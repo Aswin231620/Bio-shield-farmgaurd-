@@ -1,0 +1,17 @@
+{
+    "name": "BioShield Digital Farm Portal",
+    "short_name": "BioShield",
+    "description": "Comprehensive biosecurity management portal for Pig and Poultry farms.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#060910",
+    "theme_color": "#10b981",
+    "icons": [
+        {
+            "src": "/next.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
