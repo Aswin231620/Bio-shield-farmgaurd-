@@ -11,7 +11,9 @@ import {
     X,
     FileText,
     ShieldCheck,
-    Clock
+    Clock,
+    ChevronRight,
+    Search
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
