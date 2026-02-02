@@ -23,3 +23,18 @@ Why: When an animal looks sick, the first few hours are critical. This feature e
 7. Digital Compliance & Records
 Feature: A paperless system to record vaccinations, visitor logs, and feed deliveries.
 Why: Paper logs are often lost, dirty, or faked. Digital records are searchable, shareable, and much more reliable during government inspections or when selling livestock at a premium price.
+
+
+
+ Core Frameworks
+Next.js 16 (App Router): The main framework used for building the application, routing, and server-side rendering.
+React 19: The underlying UI library for building the components.
+⌨️ Language
+TypeScript: Used for type-safe code, helping to prevent bugs and make development faster.
+🎨 Styling & UI
+Vanilla CSS: All styles are written in custom CSS (
+globals.css
+ and CSS Modules) for a unique, high-performance look.
+Framer Motion: Used for the premium animations, page transitions, and the pulsing "Big Indicator" effects.
+Lucide React: The library providing all the professional vector icons used throughout the dashboard.
+🏗️ State Management
