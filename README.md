@@ -1,6 +1,6 @@
 First, run the development server:
 ```bash
-npm run dev
+npm run dev [https://bio-shield-farmgaurd-d2d7.vercel.app]
 
 1. The "Big Indicator" Vitality Dashboard
 Feature: A massive, color-coded status shield (Red/Green) at the center of the app.
