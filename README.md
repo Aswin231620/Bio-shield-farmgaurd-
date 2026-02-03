@@ -2,6 +2,8 @@ First, run the development server:
 ```bash
 npm run dev [https://bio-shield-farmgaurd-d2d7.vercel.app]
 
+BioShield = Early Warning + Prevention + Compliance, all in one platform
+
 1. The "Big Indicator" Vitality Dashboard
 Feature: A massive, color-coded status shield (Red/Green) at the center of the app.
 Why: Farmers are busy. They don't have time to read long reports. The "Big Indicator" gives them the answer to "Is my farm safe?" in exactly 1 second. It combines data from sensors and audits into one simple visual.
